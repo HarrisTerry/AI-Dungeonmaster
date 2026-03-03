@@ -1,16 +1,12 @@
-# Fantasy Ancestries
+# Fantasy Races
 
-In this document and context, the word ancestry refers to a different species. Each ancestry includes characteristics and mechanics, and assumes the player and GM are familiar with these ancestries from fantasy literature and other TTRPGs. Therefore, detailed descriptions of physical characteristics, personality, lore, languages, and culture are not included, as this would (and should) be unique to each gameworld a GM uses in play.
+When adding races to the Cypher System character sentence, it now reads:
 
-When adding ancestries to the Cypher System character sentence, it now reads:
+**I am a [Descriptor] [Race] [Type] who [Focus]**
 
-**I am a [Descriptor] [Ancestry] [Type] who [Focus]**
+In this manner, a player does not have to replace their Descriptor with a Race as is standard in Cypher System. After all, not all members of a Race are alike, and should not be denied their own Descriptors.
 
-In this manner, a player does not have to replace their Descriptor with an Ancestry as is standard in Cypher System. After all, not all members of an Ancestry are alike, and should not be denied their own Descriptors.
-
-## Standard Ancestries
-
-Below are the five most common ancestries found in fantasy literature and TTRPGs: Dwarves, Elves, Gnomes, Halflings, and Humans. GMs should add, remove, or change abilities as they see fit for their game world, campaign, or adventure.
+## Standard Races
 
 ### Dwarves
 
@@ -46,9 +42,9 @@ Below are the five most common ancestries found in fantasy literature and TTRPGs
 - **Improved Edge**: Choose one of your Edge stats that is 0. It increases to 1. Enabler.
 - **Skilled**: Choose any two skills you are untrained in. You are trained in those two skills. Enabler.
 
-## Nonstandard Ancestries
+## Nonstandard Races
 
-Several additional non-standard ancestries are included for GMs to add to their game as they see fit. Not all of these ancestries will be appropriate for every gameworld, campaign, or adventure.
+Several additional non-standard races are included for GMs to add to their game as they see fit. Not all of these races will be appropriate for every gameworld, campaign, or adventure.
 
 ### Avian
 
@@ -61,7 +57,7 @@ Several additional non-standard ancestries are included for GMs to add to their 
 
 - **Darkvision**: You have better perception in the dark than most. You are specialized in low-light spotting. Enabler.
 - **Celestial Resistance**: You have Armor 2 against necrotic damage or other types of evil damage. Enabler.
-- **Healing Hands**: As an action, you can touch another creature and cause it to gain a free recovery roll. You can use this ability once per day for every character tier. Action.
+- **Healing Hands**: As an action, you can touch another creature and cause it to gain a free recovery roll. You can use this ability once per day for every three character levels. Action.
 
 ### Draconic
 
